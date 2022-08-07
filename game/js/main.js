@@ -1,5 +1,5 @@
 var game = {
-  money:new Decimal(0),
+  money:new Decimal(0e),
   mps:new Decimal(0),
   mpc:new Decimal(0),
   clickMoney() {
